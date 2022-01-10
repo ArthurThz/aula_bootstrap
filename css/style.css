@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(192, 174, 7);
+}
+.quemsomos{
+    background-color: aquamarine;
+    
+}
+.margin{
+   
+    padding-bottom:50px;
+    padding-top: 20px;
+ 
+}
+.margintop{
+    padding-top:20px;
+}
+.parceiros{
+    background-color: lightskyblue;
+    color:white;
+}
+.bgfooter{
+    background-color: black;
+    color: yellow;
+    
+}
